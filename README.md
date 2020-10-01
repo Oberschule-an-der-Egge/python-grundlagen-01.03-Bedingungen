@@ -1,6 +1,6 @@
 # Projekt 1.6: Bedingungen
 
-Lehrer Lemke hat folgendes Programm geschrieben, um sich sein Leben einfacher zu machen:
+Lehrer Lämpel hat folgendes Programm geschrieben, um sich sein Leben einfacher zu machen:
 
 ![image](Screenshot_Quellcode.png)
 
